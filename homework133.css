@@ -1,0 +1,119 @@
+body {
+    padding: 0px;
+    margin: 0px;
+}
+.box1 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 780px;
+    background: linear-gradient(297.24deg, #E8EFFC 8.25%, #FFFFFF 91.76%);
+}
+.box4 {
+    width: 474px;
+    height: 475px;
+    background-color: #FFF;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+    margin-top: 90px;
+}
+
+.box3 {
+    width: 474px;
+    
+
+}
+.girl {
+    margin-left: 195px;
+    border-radius: 73.59%;
+}
+.box5 {
+    width: 100%;
+    height: 116px;
+    background-color: #E3004F;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+}
+.box6 {
+    display: flex;
+    justify-content: center;
+    margin-top: -50px;
+}
+.rombi {
+    margin-top: -19;
+}
+.box2 {
+    margin-top: 60px;
+}
+.profile {
+    font-weight: 500;
+    font-size: 36px;
+    color: #FFF;
+    text-align: center;
+}
+.box8 {
+    display: flex;
+    align-items: center;
+}
+.satauri1 {
+    margin-left: 55.5px;
+    color: #505760;
+    font-weight: 400;
+    font-size: 36px;
+}
+.number1 {
+    width: 31px;
+    height: 34px;
+    background-color: #FF2BA3;
+    border-radius: 50px;
+    color: #FFF;
+    margin: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 200px;
+}
+.box9 {
+    display: flex;
+    align-items: center;
+}
+.satauri2 {
+    margin-left: 55.5px;
+    color: #505760;
+    font-weight: 400;
+    font-size: 36px;
+}
+.number2 {
+    width: 31px;
+    height: 34px;
+    background-color: #9013FE;
+    border-radius: 50px;
+    color: #FFF;
+    margin: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 155px;
+}
+.box10 {
+    display: flex;
+    align-items: center;
+}
+.satauri3 {
+    margin-left: 55.5px;
+    color: #505760;
+    font-weight: 400;
+    font-size: 36px;
+}
+.number3 {
+    width: 31px;
+    height: 34px;
+    background-color: #00D0E6;
+    border-radius: 50px;
+    color: #FFF;
+    margin: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 203px;
+}
